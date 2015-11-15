@@ -21,7 +21,7 @@ Goals
 ^^^^^
 She wants to earn her Bachelors degree while working full-time. She needs to work to pay for expenses, so having a scheduler that
 manages the hours she has in one day and breaking it up to fulfill the tasks she has to do on a daily basis, should help her to finish 
-her Bachelors degree on time and still able to work. 
+her Bachelors degree on time and still able to work.
 
 Problem Scenarios
 =================
