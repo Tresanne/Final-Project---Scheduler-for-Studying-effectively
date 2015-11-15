@@ -48,4 +48,24 @@ not throw too much stones.
 
 User Stories
 ============
-As Tresanne, I want to use a scheduler to manage my time and to be able to study effectively while working a full-time job. 
+As Tresanne, I will input my work and life schedule into the a scheduler to manage my time and give me an 
+idea of how much hours I have available to be able to study daily while working a full-time job. 
+
+Acceptance Stories
+^^^^^^^^^^^^^^^^^^
+
+::
+
+[Inputing Schedule]
+
+    Given that I input my life and work schedule, I would like the program to hold a record of the time and hours that are taken
+    up during that day. 
+    
+[Calculating hours]
+
+    Given that the scheduler has my work and life schedule, I would like it to calculate the amount of hours I have free to study
+    for that particular day. 
+    
+[Calculating Study Time]
+    Given that I inputed my schedule and the calculated study time for the week is less than 20 hours, an alarm should go off
+    that 'You have not reached the minimum study time of 20 hours per week'.
