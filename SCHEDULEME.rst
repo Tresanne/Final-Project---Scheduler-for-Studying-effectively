@@ -58,13 +58,11 @@ Acceptance Stories
 
 [Inputing Schedule]
 
-    Given that I input my life and work schedule, I would like the program to hold a record of the time and hours that are taken
-    up during that day. 
+    Given that I input my life and work schedule, I would like the program to hold a record of the time and hours that are taken up during that day. The program would take a snapshot of my schedule and hold that data. 
     
 [Calculating hours]
 
-    Given that the scheduler has my work and life schedule, I would like it to calculate the amount of hours I have free to study
-    for that particular day. 
+    Given that the scheduler has my work and life schedule, I would like it to calculate the amount of hours I have free to study for that particular day. After counting the hours that is taken up by my daily activities, the prgram will calculate how much hours I have free. This free time would be study time. 
     
 [Calculating Study Time]
     Given that I inputed my schedule and the calculated study time for the week is less than 20 hours, an alarm should go off
