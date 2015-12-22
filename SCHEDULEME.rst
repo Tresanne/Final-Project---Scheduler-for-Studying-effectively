@@ -1,3 +1,4 @@
+
 ==============
 SCHEDULEME
 ==============
@@ -62,8 +63,8 @@ Acceptance Stories
     
 [Calculating hours]
 
-    Given that the scheduler has my work and life schedule, I would like it to calculate the amount of hours I have free to study for that particular day. After counting the hours that is taken up by my daily activities, the prgram will calculate how much hours I have free. This free time would be study time. 
+    Given that the scheduler has my work and life schedule, I would like it to calculate the amount of hours I have free to study for that particular day. After counting the hours that is taken up by my daily activities, the program will calculate how much hours I have free. This free time would be study time. 
     
 [Calculating Study Time]
-    Given that I inputed my schedule and the calculated study time for the week is less than 20 hours, an alarm should go off
-    that 'You have not reached the minimum study time of 20 hours per week'.
+    Given that I inputed my schedule and the calculated study time for the day is less than 3 hours, an alarm should go off
+    that 'You have less than 3 hours study time for the day!
