@@ -1,3 +1,7 @@
+#!/usr/bin/env python 
+# -*- coding: utf-8 -*-
+"""Finals"""
+
 import os
 from datetime import datetime
 from appointments import Appointment
